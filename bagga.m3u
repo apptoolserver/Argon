@@ -1409,15 +1409,11 @@ http://103.122.249.134:8000/play/a04n
 #EXTINF:-1 tvg-id="StarPravah.in@HD",Star Pravah HD (1080p)
 http://103.122.249.134:8000/play/a012
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
-http://103.122.249.134:8000/play/a059/index.m3u8
+http://103.253.18.58:8000/play/a03o
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@HD",Star Sports 1 Tamil HD (1080p)
 http://103.122.249.134:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
-http://103.122.249.134:8000/play/a055/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Tamil.in@SD",Star Sports 2 Tamil (576p)
 http://103.122.249.134:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
-http://103.122.249.134:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD",Zee Bangla Sonar (576p)
 http://103.122.249.134:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
